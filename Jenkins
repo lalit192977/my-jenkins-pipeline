@@ -1,4 +1,4 @@
-pipiline
+pipeline{
 
 agent any
 
@@ -23,4 +23,5 @@ stages{
 			echo "test my final webapp"
 		}
 	}
+}
 }
